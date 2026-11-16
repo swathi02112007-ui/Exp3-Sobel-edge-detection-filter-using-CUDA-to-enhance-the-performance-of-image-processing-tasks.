@@ -288,5 +288,7 @@ Deliverables:
 Modified CUDA code with comments explaining your changes.
 A report summarizing your findings, including graphs of execution times and a comparison of outputs.
 Answers to the questions posed in the experiment.
+
 Tools Required:
+Google Colab, NVIDIA CUDA Toolkit/NVCC, CUDA-compatible GPU and OpenCV.
 
